@@ -1,0 +1,1 @@
+SELECT concat('There are a total of ', count(*), ' ', LOWER(Occupation), 's.') AS TOTAL FROM OCCUPATIONS GROUP BY OCCUPATION ORDER BY TOTAL;
