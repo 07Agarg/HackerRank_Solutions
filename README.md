@@ -1,1 +1,1 @@
-# HackerRank Solutions - Solutions to All SQL Problems of HackerRank
+# Efficient Solutions to HackerRank SQL Problems 
