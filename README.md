@@ -32,9 +32,50 @@
 
 
 
+### Advanced Select
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Advanced%20Select/Type%20of%20Triangle.sql)
+|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Advanced%20Select/The%20PADS.sql)
+|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Advanced%20Select/Binary%20Tree%20Nodes.sql)
+|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Advanced%20Select/New%20Companies.sql)
+
+
+### Aggregation
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
+|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
+|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Revising%20Aggregations%20-%20Averages.sql)
+|[Average Population](https://www.hackerrank.com/challenges/average-population/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Average%20Population.sql)
+|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Japan%20Population.sql)
+|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Population%20Density%20Difference.sql)
+|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/The%20Blunder.sql)
+|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Top%20Earners.sql)
+|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%202.sql)
+|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2013.sql)
+|[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2014.sql)
+|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2015.sql)
+|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2016.sql)
+|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2017.sql)
+|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2018.sql)
+|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2019.sql)
 
 
 
+### Basic Join
 
 
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/African%20Cities.sql)
+|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
+|[The Report](https://www.hackerrank.com/challenges/the-report/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/The%20Report.sql)
+|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Top%20Competitors.sql)
+|[Challenges](https://www.hackerrank.com/challenges/challenges/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Challenges.sql)
 
