@@ -1,6 +1,6 @@
 <p align = "center" >
       <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
-      <br>MySQL Solutions to HackerRank Problems of SQL
+      <br>Solutions to HackerRank Problems
 </p>
 
 ## SQL
@@ -79,3 +79,82 @@
 |[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Top%20Competitors.sql)
 |[Challenges](https://www.hackerrank.com/challenges/challenges/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Challenges.sql)
 
+
+
+## Python
+
+### Introduction
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Python: Division](https://www.hackerrank.com/challenges/python-division/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Loops](https://www.hackerrank.com/challenges/python-loops/problem)                                 		          		  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Print Function](https://www.hackerrank.com/challenges/python-print/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+
+
+
+
+### Basic Data Types
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Lists](https://www.hackerrank.com/challenges/python-lists/problem)                                 		          		  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+
+
+### Strings
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)                                 		          		  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+
+
+### Sets
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+
+
+
+### Numpy
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Arrays](https://www.hackerrank.com/challenges/np-arrays/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
+|[Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Asian%20Population.sql)
