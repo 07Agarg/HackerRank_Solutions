@@ -135,7 +135,17 @@
 |:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Introduction%20to%20Sets.py)
 |[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Symmetric%20Difference.py)
-
+|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/No%20Idea.py)
+|[Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Set%20.add().py)
+|[Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Set%20.discard()%2C%20.remove()%20%26%20.pop().py)
+|[Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Set%20.union()%20Operation.py)
+|[Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Set%20.intersection()%20Operation.py)
+|[Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Set%20.difference()%20Operation.py)
+|[Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Set%20.symmetric_difference()%20Operation.py)
+|[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Set%20Mutations.py)
+|[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/The%20Captain's%20Room.py)
+|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Check%20Subset.py)
+|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Check%20Strict%20Superset.py)
 
 
 ### Numpy
