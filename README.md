@@ -148,6 +148,27 @@
 |[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Check%20Strict%20Superset.py)
 
 
+### Collections
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Collections/collections.Counter().py)
+|[DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Collections/DefaultDict%20Tutorial.py)
+|[Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Collections/Collections.namedtuple().py)
+|[Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Collections/Collections.deque().py)
+
+
+### Python Functionals
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Python%20Functionals/Map%20and%20Lambda%20Function.py)
+|[Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Python%20Functionals/Validating%20Email%20Addresses%20With%20a%20Filter.py)
+|[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Python%20Functionals/Reduce%20Function.py)
+
+
 ### Numpy
 
 
