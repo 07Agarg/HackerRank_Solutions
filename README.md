@@ -148,6 +148,33 @@
 |[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Sets/Check%20Strict%20Superset.py)
 
 
+### Math
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Math/Polar%20Coordinates.py)
+|[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Math/Mod%20Divmod.py)
+|[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Math/Power%20-%20Mod%20Power.py)
+|[Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Math/Integers%20Come%20In%20All%20Sizes.py)
+|[Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Math/Triangle%20Quest.py)
+|[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Math/Triangle%20Quest%202.py)
+
+
+### Itertools
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Itertools/itertools.product().py)
+|[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Itertools/itertools.permutations().py)
+|[itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Itertools/itertools.combinations().py)
+|[itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Itertools/itertools.combinations_with_replacement().py)
+|[Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Itertools/Compress%20the%20String!.py)
+|[Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Itertools/Iterables%20and%20Iterators.py)
+|[Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Itertools/Maximize%20It!.py)
+
+
 ### Collections
 
 
@@ -157,6 +184,53 @@
 |[DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Collections/DefaultDict%20Tutorial.py)
 |[Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Collections/Collections.namedtuple().py)
 |[Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Collections/Collections.deque().py)
+|[Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Collections/Company%20Logo.py)
+|[Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Collections/Collections.OrderedDict().py)
+|[Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Collections/Piling%20Up!.py)
+|[Word Order](https://www.hackerrank.com/challenges/word-order/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Collections/Word%20Order.py)
+
+
+### Date and Time
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Date%20and%20Time/Calendar%20Module.py)
+|[Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Date%20and%20Time/Time%20Delta.py)
+
+
+### Exceptions and Errors
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Exceptions](https://www.hackerrank.com/challenges/exceptions/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Errors%20and%20Exceptions/Exceptions.py)
+
+
+### Built-Ins
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Zipped!](https://www.hackerrank.com/challenges/zipped/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Built-Ins/Zipped!.py)
+|[Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Built-Ins/Python%20Evaluation.py)
+|[Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Built-Ins/Athlete%20Sort.py)
+|[Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Built-Ins/Any%20or%20All.py)
+|[ginortS](https://www.hackerrank.com/challenges/ginorts/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Built-Ins/ginortS.py)
+
+
+### Regex and Parsing
+
+
+|                                                           Challenge                                                         				  |                                                                                                      Solution                                                                                                                              								           	    |
+|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Regex%20and%20Parsing/Detect%20Floating%20Point%20Number.py)
+|[Re.split()](https://www.hackerrank.com/challenges/re-split/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Regex%20and%20Parsing/Re.split().py)
+|[Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Regex%20and%20Parsing/Group()%2C%20Groups()%20%26%20Groupdict().py)
+|[Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Regex%20and%20Parsing/Re.findall()%20%26%20Re.finditer().py)
+|[Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Regex%20and%20Parsing/Re.start()%20%26%20Re.end().py)
+|[Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Regex%20and%20Parsing/Validating%20phone%20numbers.py)
+|[Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem)                                 				  | [MySolution](https://github.com/07Agarg/HackerRank_Solutions/blob/master/Python/Regex%20and%20Parsing/Validating%20and%20Parsing%20Email%20Addresses.py)
 
 
 ### Python Functionals
